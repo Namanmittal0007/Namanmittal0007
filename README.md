@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naman Mittal
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning DSA with handson in development
+- 🌱 I’m currently learning DSA with hands-on in development
 - 💞️ I’m looking to collaborate on WebDev and Automation projects
 - 📫 Reach out to me on linkedlin: https://www.linkedin.com/in/namanmittal0007/
 
